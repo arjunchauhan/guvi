@@ -8,3 +8,6 @@ Step 2.
 
 Recognize text. Now we have the location we need to get the indvidual words.
 
+Step 3. 
+
+Transliteration. We train a LSTM to convert text from one language to another.
